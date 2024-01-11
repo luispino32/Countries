@@ -1,0 +1,28 @@
+.general{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 20px;
+}
+
+.pages{
+    display: flex;
+    width: 40px;
+    height: 36px;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.inactivo {
+  opacity: 0.5; /* Puedes ajustar la opacidad según tu preferencia */
+  pointer-events: none;
+}
+
+.button{
+    display: flex;
+    height: 40px;
+    cursor: pointer;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}

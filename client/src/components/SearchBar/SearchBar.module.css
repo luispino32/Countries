@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  margin-bottom: 20px;
+  margin-left: 35%;
+  margin-right: 35%;
+  margin-top: 10px;
+}
+
+.input {
+  padding: 10px;
+  flex: 1;
+}
+
+.button {
+  padding: 10px;
+  background-color: #3498db;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
